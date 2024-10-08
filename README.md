@@ -1,1 +1,1 @@
-This ia a zomato lamdimg page clone
+This ia a Zomato landimg page clone
